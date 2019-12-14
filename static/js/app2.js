@@ -51,3 +51,25 @@ button.on("click", function() {
  });
 
 }); 
+
+// var newDate = filteredData.map(row => row.newDate);
+// console.log(newDate);
+
+// // Iterate through each student/grade pair
+// newDate.forEach(([newRow]) => {
+
+//     // Append one table row per student/grade
+//     var row = tbody.append("tr");
+  
+//     // append one cell for the student and one cell for the grade
+//     row.append("td").text();
+    
+//   });
+
+  // Input fields can trigger a change event when new text is entered.
+// inputField.on("change", function() {
+//     var newText = d3.event.target.value;
+//     console.log(newText);
+//   });
+
+// });
